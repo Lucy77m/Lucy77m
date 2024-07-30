@@ -5,8 +5,8 @@
 * Back End: Node.js, Python, C++
 <br>
 ## 📞Communication
-* Discord ![Discord](https://github.com/discord/discord-assets/blob/main/branding/logos/discord-primary-logo.svg?raw=true)
+* Discord ![Discord](https://cdn.discordapp.com/attachments/1208011896322793494/1267711674064834580/discord.png?ex=66a9c800&is=66a87680&hm=0cd882db9cf85ea0c27fd554688fc504f764f76e838e8b2e4eee555ef5dfb8d6&)
 
-[![Discord](https://github.com/discord/discord-assets/blob/main/branding/logos/discord-primary-logo.svg?raw=true)](https://discord.com/users/868361472043003934)
+[![Discord](https://cdn.discordapp.com/attachments/1208011896322793494/1267711674064834580/discord.png?ex=66a9c800&is=66a87680&hm=0cd882db9cf85ea0c27fd554688fc504f764f76e838e8b2e4eee555ef5dfb8d6&)](https://discord.com/users/868361472043003934)
 
 
