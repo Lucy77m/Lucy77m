@@ -3,7 +3,6 @@
 ## 🛠️ Skill
 * Front End: HTML, CSS, JavaScript
 * Back End: Node.js, Python, C++
-<br>
 
 ## 📞 Communication
 
@@ -13,6 +12,7 @@
 <a href="https://github.com/Lucy77m" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/1208011896322793494/1267715574813818900/github.png?ex=66a9cba2&is=66a87a22&hm=89ef2c01947052ec49c529e2d1c7df5a5b7ccdb3567e27244881bd97d7551316&" alt="Github" width="35" height="35">
 </a>
+
 
 ## ✉️ E-mail
 
