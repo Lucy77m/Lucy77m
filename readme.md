@@ -11,7 +11,7 @@
   <img src="https://cdn.discordapp.com/attachments/1208011896322793494/1267711674064834580/discord.png?ex=66a9c800&is=66a87680&hm=0cd882db9cf85ea0c27fd554688fc504f764f76e838e8b2e4eee555ef5dfb8d6&" alt="Discord" width="35" height="35">
 </a>
 <a href="https://github.com/Lucy77m" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1208011896322793494/1267715574813818900/github.png?ex=66a9cba2&is=66a87a22&hm=89ef2c01947052ec49c529e2d1c7df5a5b7ccdb3567e27244881bd97d7551316&" alt="Github" width="35" height="35">
+  <img src="https://media.discordapp.net/attachments/1208011896322793494/1267715574813818900/github.png?ex=66b06322&is=66af11a2&hm=3ae4eb1c7da3d0e4a7bdebd96ea22b54d2e19ea49667ae11c70670304f5aaf97&=&format=webp&quality=lossless&width=350&height=350" alt="Github" width="35" height="35">
 </a>
 
 <br>
