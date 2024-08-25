@@ -19,6 +19,7 @@
 
 ## 🌍 Ongoing project
 ![ChessGoQ](https://github.com/user-attachments/assets/95ef3dda-0615-4715-ba45-ee311556dee6)
+<br>
 
 ## ✉️ E-mail
 
