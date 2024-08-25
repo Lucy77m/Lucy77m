@@ -20,6 +20,7 @@
 
 ## 🌍 Ongoing project
 ![LogoYell](https://github.com/user-attachments/assets/d8f06ca8-48c4-4d48-8a10-04ddad0d598b)
+* stockfish 16.1-based chessbot made in python
 <br>
 
 ## ✉️ E-mail
