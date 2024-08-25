@@ -14,8 +14,7 @@ Language == Korean, Node.js, Python, C++, Typescript
 ## 🌍 My Ongoing project
 ![LogoYell](https://github.com/user-attachments/assets/d8f06ca8-48c4-4d48-8a10-04ddad0d598b)
 * stockfish 16.1-based chessbot made in python
-<br>
-[go to project](https://github.com/Lucy77m/ChessGo)
+* [go to project](https://github.com/Lucy77m/ChessGo)
 <br>
 
 ## 👻 My site
