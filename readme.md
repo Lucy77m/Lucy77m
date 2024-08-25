@@ -6,7 +6,7 @@ Language == Korean, Node.js, Python, C++, Typescript
 <a href="https://discord.com/users/868361472043003934" target="_blank" style="margin-right: 10px;">
   <img src="https://fixcdn.hyonsu.com/attachments/1208011896322793494/1267711674064834580/discord.png?ex=66a9c800&is=66a87680&hm=0cd882db9cf85ea0c27fd554688fc504f764f76e838e8b2e4eee555ef5dfb8d6&" alt="Discord" width="35" height="35">
 </a>
-
+^ My discord Profile
 <br>
 <br>
 <br>
